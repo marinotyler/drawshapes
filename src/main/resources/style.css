@@ -1,0 +1,14 @@
+.root {
+    background-color: transparent;
+    -fx-background-color: #f7ca88;
+}
+
+.button{
+    font-size: 12px;
+    -fx-font-size: 15px;
+}
+
+.label{
+    font-size: 12px;
+    -fx-font-size: 15px;  
+}
